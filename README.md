@@ -1,4 +1,4 @@
 ginger
 ======
 
-This is nodejs + express + mongodb backend.
+This is a nodejs + express + mongodb backend.
